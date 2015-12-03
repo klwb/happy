@@ -1,0 +1,7 @@
+xcode常用插件
+
+  一键将3X图片缩小到2X、1X，或反向拉伸
+  RTImageAssets/https://github.com/rickytan/RTImageAssets
+  
+  代码自动补全，功能优于xcode自带代码补全
+  FuzzyAutocompletePlugin/https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin
